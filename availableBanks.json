@@ -1,0 +1,83 @@
+[
+  {
+    "id": "tk001",
+    "imageResource": "tiku001.png",
+    "title": "《习近平新时代中国特色社会主义思想概论》",
+    "subject": "江西飞行学院",
+    "description": "2024-2025-1",
+    "isSelected": false
+  },
+  {
+    "id": "tk003",
+    "imageResource": "tiku003.png",
+    "title": "《习近平新时代中国特色社会主义思想概论》",
+    "subject": "南京林业大学",
+    "description": "2024-2025-2",
+    "isSelected": false
+  },
+  {
+    "id": "tk004",
+    "imageResource": "tiku004.png",
+    "title": "《毛泽东思想和中国特色社会主义概论》",
+    "subject": "南京林业大学",
+    "description": "2024-2025-2",
+    "isSelected": false
+  },
+  {
+    "id": "tk005",
+    "imageResource": "tiku005.png",
+    "title": "《马克思主义基本原理》",
+    "subject": "南京林业大学",
+    "description": "2024-2025-2",
+    "isSelected": false
+  },
+  {
+    "id": "tk006",
+    "imageResource": "tiku006.png",
+    "title": "《思想道德与法治》",
+    "subject": "南京林业大学",
+    "description": "2024-2025-2",
+    "isSelected": false
+  },
+  {
+    "id": "tk007",
+    "imageResource": "tiku007.png",
+    "title": "《大学生心理健康教育》",
+    "subject": "南京林业大学",
+    "description": "2024-2025-2",
+    "isSelected": false
+  },
+  {
+    "id": "tk008",
+    "imageResource": "tiku008.png",
+    "title": "《中国近代史纲要》",
+    "subject": "南京林业大学",
+    "description": "2024-2025-2",
+    "isSelected": false
+  },
+  {
+    "id": "tk009",
+    "imageResource": "tiku009.png",
+    "title": "《人工智能》",
+    "subject": "南京林业大学",
+    "description": "2024-2025-2",
+    "isSelected": false
+  },
+  {
+    "id": "tk010",
+    "imageResource": "tiku010.png",
+    "title": "《入党积极分子》",
+    "subject": "南京林业大学",
+    "description": "部分新题目处理中",
+    "isSelected": false
+  },
+  {
+      "id": "tk011",
+    "imageResource": "tiku011.png",
+    "title": "《消费者行为学》",
+    "subject": "南京林业大学",
+    "description": "2025-2026-1",
+    "isSelected": false
+  }
+  
+]
