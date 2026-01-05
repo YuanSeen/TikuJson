@@ -7,7 +7,7 @@ compatibility_date = "2026-01-05"
 [build]
 command = ""
 
-# 3. 【重要】将 `include` 字段移到 `[site]` 节块下，因为你的项目是静态文件
+# 3. 【重要】将 `include` 字段移到 `[site]` 节块下，因为你的项目是静态文件 
 [site]
 bucket = "./"
 include = ["*.json", "available/*.java"]
