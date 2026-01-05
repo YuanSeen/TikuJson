@@ -1,0 +1,8 @@
+name = "thalam" 
+main = "./availableBanks.json" # 指定主文件或一个入口点
+
+[build]
+command = "" # 明确设为空，表示无构建命令
+
+# 指定要包含在部署中的文件
+include = ["*.json"] # 根据你的项目结构调整
