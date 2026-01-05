@@ -1,8 +1,13 @@
 name = "tiku" 
 main = "./availableBanks.json" # 指定主文件或一个入口点
+# 1. 添加兼容性日期（使用今天或更近的日期）
+compatibility_date = "2026-01-05"
 
+# 2. 构建配置：明确指定无构建命令
 [build]
-command = "" # 明确设为空，表示无构建命令
+command = ""
 
-# 指定要包含在部署中的文件
-include = ["*.json"] # 根据你的项目结构调整
+# 3. 【重要】将 `include` 字段移到 `[site]` 节块下，因为你的项目是静态文件
+[site]
+bucket = "./"
+include = ["*.json", "available/*.java"]
