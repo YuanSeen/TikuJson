@@ -1,4 +1,4 @@
-name = "thalam" 
+name = "tiku" 
 main = "./availableBanks.json" # 指定主文件或一个入口点
 
 [build]
