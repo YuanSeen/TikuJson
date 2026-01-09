@@ -12,7 +12,7 @@
     "imageResource": "tiku003.png",
     "title": "《习近平新时代中国特色社会主义思想概论》",
     "subject": "南京林业大学",
-    "description": "2024-2025-2",
+    "description": "2025-2026-1",
     "isSelected": false
   },
   {
@@ -20,7 +20,7 @@
     "imageResource": "tiku004.png",
     "title": "《毛泽东思想和中国特色社会主义概论》",
     "subject": "南京林业大学",
-    "description": "2024-2025-2",
+    "description": "2025-2026-1",
     "isSelected": false
   },
   {
@@ -28,7 +28,7 @@
     "imageResource": "tiku005.png",
     "title": "《马克思主义基本原理》",
     "subject": "南京林业大学",
-    "description": "2024-2025-2",
+    "description": "2025-2026-1",
     "isSelected": false
   },
   {
@@ -36,7 +36,7 @@
     "imageResource": "tiku006.png",
     "title": "《思想道德与法治》",
     "subject": "南京林业大学",
-    "description": "2024-2025-2",
+    "description": "2025-2026-1",
     "isSelected": false
   },
   {
@@ -44,7 +44,7 @@
     "imageResource": "tiku007.png",
     "title": "《大学生心理健康教育》",
     "subject": "南京林业大学",
-    "description": "2024-2025-2",
+    "description": "2025-2026-1",
     "isSelected": false
   },
   {
@@ -52,7 +52,7 @@
     "imageResource": "tiku008.png",
     "title": "《中国近代史纲要》",
     "subject": "南京林业大学",
-    "description": "2024-2025-2",
+    "description": "2025-2026-1",
     "isSelected": false
   },
   {
@@ -60,7 +60,7 @@
     "imageResource": "tiku009.png",
     "title": "《人工智能》",
     "subject": "南京林业大学",
-    "description": "2024-2025-2",
+    "description": "2025-2026-1",
     "isSelected": false
   },
   {
@@ -75,6 +75,14 @@
       "id": "tk011",
     "imageResource": "tiku011.png",
     "title": "《消费者行为学》",
+    "subject": "南京林业大学",
+    "description": "2025-2026-1",
+    "isSelected": false
+  },
+  {
+      "id": "tk012",
+    "imageResource": "tiku012.png",
+    "title": "《财务管理》",
     "subject": "南京林业大学",
     "description": "2025-2026-1",
     "isSelected": false
