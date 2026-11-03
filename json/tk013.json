@@ -1,0 +1,388 @@
+{
+  "id": "tk0013",
+  "yushelianxi": {
+    "kaoshishijian": 10,
+    "danxuan": [0, 0],
+    "duoxuan": [0, 0],
+    "panduan": [15, 2]
+  },
+  "tiku": {
+    "danxuan": [
+    {
+            "id": 1,
+        "type": "danxuan",
+        "stem": "请直接进入判断题",
+        "attemptCount": 0,
+        "errorCount": 0,
+        "opa":"空",
+        "opb":"空",
+        "opc":"空",
+        "opd":"空",
+        "inErrorBook": false,
+        "answer": "A"
+    }
+    ],
+    "panduan": [
+      {
+        "id": 1,
+        "type": "panduan",
+        "stem": "广告中的参与者包括广告主，广告公司，媒体，广告受众。",
+        "attemptCount": 0,
+        "errorCount": 0,
+        "inErrorBook": false,
+        "answer": "A"
+      },
+      {
+        "id": 2,
+        "type": "panduan",
+        "stem": "纽约，东京和上海被称为世界三大广告中心。",
+        "attemptCount": 0,
+        "errorCount": 0,
+        "inErrorBook": false,
+        "answer": "B"
+      },
+      {
+        "id": 3,
+        "type": "panduan",
+        "stem": "广告创意是广告运作的起点，为开展广告活动打下基础，为广告策划提供直接依据。",
+        "attemptCount": 0,
+        "errorCount": 0,
+        "inErrorBook": false,
+        "answer": "B"
+      },
+      {
+        "id": 4,
+        "type": "panduan",
+        "stem": "投射技术是一种定性调查方法。",
+        "attemptCount": 0,
+        "errorCount": 0,
+        "inErrorBook": false,
+        "answer": "A"
+      },
+      {
+        "id": 5,
+        "type": "panduan",
+        "stem": "当样本越大，误差会同比例下降。",
+        "attemptCount": 0,
+        "errorCount": 0,
+        "inErrorBook": false,
+        "answer": "B"
+      },
+      {
+        "id": 6,
+        "type": "panduan",
+        "stem": "保险公司售卖的人身意外伤害险属于马斯洛需求层次模型中的生理需要。",
+        "attemptCount": 0,
+        "errorCount": 0,
+        "inErrorBook": false,
+        "answer": "B"
+      },
+      {
+        "id": 7,
+        "type": "panduan",
+        "stem": "个体由苍松柏翠联想到意志坚强，是联想的相似性。",
+        "attemptCount": 0,
+        "errorCount": 0,
+        "inErrorBook": false,
+        "answer": "A"
+      },
+      {
+        "id": 8,
+        "type": "panduan",
+        "stem": "美国某刹车制造公司广告口号，没有好的刹车，你还是不要发动，运用到联想的因果律。",
+        "attemptCount": 0,
+        "errorCount": 0,
+        "inErrorBook": false,
+        "answer": "A"
+      },
+      {
+        "id": 9,
+        "type": "panduan",
+        "stem": "当消费者对产品或信息的关注程度较高，广告信息更容易进入中心路径的说服类别。",
+        "attemptCount": 0,
+        "errorCount": 0,
+        "inErrorBook": false,
+        "answer": "A"
+      },
+      {
+        "id": 10,
+        "type": "panduan",
+        "stem": "当消费者对产品信息关注或卷入程度低时，消费者就容易被非产品信息内容所吸引，进行外围路径的说服过程。",
+        "attemptCount": 0,
+        "errorCount": 0,
+        "inErrorBook": false,
+        "answer": "A"
+      },
+      {
+        "id": 11,
+        "type": "panduan",
+        "stem": "提到果冻不低，消费者就想起喜之郎，提到喜之郎就想起果冻布丁，说明喜之郎比附定位方案有效果。",
+        "attemptCount": 0,
+        "errorCount": 0,
+        "inErrorBook": false,
+        "answer": "B"
+      },
+      {
+        "id": 12,
+        "type": "panduan",
+        "stem": "大西北某酒厂的广告词是敦煌佳酿，塞外茅台，这是一种强化广告定位策略。",
+        "attemptCount": 0,
+        "errorCount": 0,
+        "inErrorBook": false,
+        "answer": "B"
+      },
+      {
+        "id": 13,
+        "type": "panduan",
+        "stem": "考试前来跟士力架补充能量，在考场上发挥的更好，采用了产品消费时机的产品实体的广告定位方法。",
+        "attemptCount": 0,
+        "errorCount": 0,
+        "inErrorBook": false,
+        "answer": "A"
+      },
+      {
+        "id": 14,
+        "type": "panduan",
+        "stem": "广告受众信息接受的选择性规律，包括选择性注意，选择性理解，选择性记忆，选择性情感，选择性行动。",
+        "attemptCount": 0,
+        "errorCount": 0,
+        "inErrorBook": false,
+        "answer": "B"
+      },
+      {
+        "id": 15,
+        "type": "panduan",
+        "stem": "在头脑风暴法的会议中，对参与人员的建议应及时提出表扬或批评，以便讨论问题的解决。",
+        "attemptCount": 0,
+        "errorCount": 0,
+        "inErrorBook": false,
+        "answer": "B"
+      },
+      {
+        "id": 16,
+        "type": "panduan",
+        "stem": "当设计者用美丽的鹿角身披醒目的条纹的斑马来表现野生动物或是自然环境时，这是类似联想的应用。",
+        "attemptCount": 0,
+        "errorCount": 0,
+        "inErrorBook": false,
+        "answer": "B"
+      },
+      {
+        "id": 17,
+        "type": "panduan",
+        "stem": "同质化倾向非常强，但品牌个体差异很大的商品常常采取感性诉求型的表现手段来加强与品牌之间的形象差异，使之成为消费群体所认同的“人格的延伸”。",
+        "attemptCount": 0,
+        "errorCount": 0,
+        "inErrorBook": false,
+        "answer": "A"
+      },
+      {
+        "id": 18,
+        "type": "panduan",
+        "stem": "景别越大，环境因素越多，景别越小，强调因素越多。",
+        "attemptCount": 0,
+        "errorCount": 0,
+        "inErrorBook": false,
+        "answer": "A"
+      },
+      {
+        "id": 19,
+        "type": "panduan",
+        "stem": "拍摄人物小腿以上部分的镜头画面称为中景，俗称“七分像”。",
+        "attemptCount": 0,
+        "errorCount": 0,
+        "inErrorBook": false,
+        "answer": "A"
+      },
+      {
+        "id": 20,
+        "type": "panduan",
+        "stem": "广告文案一般包括标题，副标题，正文，广告口号，附注5个部分。",
+        "attemptCount": 0,
+        "errorCount": 0,
+        "inErrorBook": false,
+        "answer": "A"
+      },
+      {
+        "id": 21,
+        "type": "panduan",
+        "stem": "中华书局（原题为“永汉书局”，疑误）的广告语“贫者因书而富，富者因书而贵”使用了回环的手法。",
+        "attemptCount": 0,
+        "errorCount": 0,
+        "inErrorBook": false,
+        "answer": "B"
+      },
+      {
+        "id": 22,
+        "type": "panduan",
+        "stem": "微信的广告语“世界再大，大不过你我之间”使用了顶针的手法。",
+        "attemptCount": 0,
+        "errorCount": 0,
+        "inErrorBook": false,
+        "answer": "B"
+      },
+      {
+        "id": 23,
+        "type": "panduan",
+        "stem": "报纸，杂志，广播，影视，互联网都是常见的大众媒体。",
+        "attemptCount": 0,
+        "errorCount": 0,
+        "inErrorBook": false,
+        "answer": "A"
+      },
+      {
+        "id": 24,
+        "type": "panduan",
+        "stem": "大众媒体传播类广告的最显著特色是以大发行量和高接触率为优势，要覆盖目标市场区域及目标对象，以求更多更快的抓住目标消费群体。",
+        "attemptCount": 0,
+        "errorCount": 0,
+        "inErrorBook": false,
+        "answer": "A"
+      },
+      {
+        "id": 25,
+        "type": "panduan",
+        "stem": "包装仅是产品的容器并不是传播载体。",
+        "attemptCount": 0,
+        "errorCount": 0,
+        "inErrorBook": false,
+        "answer": "B"
+      },
+      {
+        "id": 26,
+        "type": "panduan",
+        "stem": "媒介组合是广告媒介战略的核心和主框架。",
+        "attemptCount": 0,
+        "errorCount": 0,
+        "inErrorBook": false,
+        "answer": "A"
+      },
+      {
+        "id": 27,
+        "type": "panduan",
+        "stem": "按照人的视觉流程版面中最佳的位置是左上角。",
+        "attemptCount": 0,
+        "errorCount": 0,
+        "inErrorBook": false,
+        "answer": "A"
+      },
+      {
+        "id": 28,
+        "type": "panduan",
+        "stem": "程序化广告可以解决广告的买卖信息不对称问题，但也有可能产生机器人制造虚假观看量等问题。",
+        "attemptCount": 0,
+        "errorCount": 0,
+        "inErrorBook": false,
+        "answer": "A"
+      },
+      {
+        "id": 29,
+        "type": "panduan",
+        "stem": "在美术上将红黄蓝称为颜料的三原色，通过两种不同比例颜色混合的为中色。",
+        "attemptCount": 0,
+        "errorCount": 0,
+        "inErrorBook": false,
+        "answer": "B"
+      },
+      {
+        "id": 30,
+        "type": "panduan",
+        "stem": "通过任意两个间色或三个原色相混合产生的颜色为三次色，又称复色。",
+        "attemptCount": 0,
+        "errorCount": 0,
+        "inErrorBook": false,
+        "answer": "A"
+      },
+      {
+        "id": 31,
+        "type": "panduan",
+        "stem": "威廉·伯恩巴克是DDB广告公司的创始人，在广告中提出优秀广告具备ROI三个特征。",
+        "attemptCount": 0,
+        "errorCount": 0,
+        "inErrorBook": false,
+        "answer": "A"
+      },
+      {
+        "id": 32,
+        "type": "panduan",
+        "stem": "按照人的视觉流程，版面中最佳的位置是右下角。",
+        "attemptCount": 0,
+        "errorCount": 0,
+        "inErrorBook": false,
+        "answer": "B"
+      },
+      {
+        "id": 33,
+        "type": "panduan",
+        "stem": "广告信息承载的限七原则是指广告传递信息最有效的是信息数量要等于或少于7个。",
+        "attemptCount": 0,
+        "errorCount": 0,
+        "inErrorBook": false,
+        "answer": "A"
+      },
+      {
+        "id": 34,
+        "type": "panduan",
+        "stem": "二手资料是以前他人出于某种意图而收集的资料，并不是调查人员为了现在的研究方案而专门收集的资料。",
+        "attemptCount": 0,
+        "errorCount": 0,
+        "inErrorBook": false,
+        "answer": "A"
+      },
+      {
+        "id": 35,
+        "type": "panduan",
+        "stem": "自我介于本我与超我之间，对本我的冲动与超我的管制具有缓冲与调节功能。",
+        "attemptCount": 0,
+        "errorCount": 0,
+        "inErrorBook": false,
+        "answer": "A"
+      },
+      {
+        "id": 36,
+        "type": "panduan",
+        "stem": "广告定位不需要能抓住消费者的注意力，只需要与同产品有区隔力。",
+        "attemptCount": 0,
+        "errorCount": 0,
+        "inErrorBook": false,
+        "answer": "B"
+      },
+      {
+        "id": 37,
+        "type": "panduan",
+        "stem": "广播文案也有标题，同时需要强化主题内容，才有更好的传播效果。",
+        "attemptCount": 0,
+        "errorCount": 0,
+        "inErrorBook": false,
+        "answer": "B"
+      },
+      {
+        "id": 38,
+        "type": "panduan",
+        "stem": "面对面调查或者电话调查中，访问员向受访者读出问题并记录下他们的回答，这是人员操纵型调查。",
+        "attemptCount": 0,
+        "errorCount": 0,
+        "inErrorBook": false,
+        "answer": "A"
+      },
+      {
+        "id": 39,
+        "type": "panduan",
+        "stem": "受众在接收广告信息时具有选择性规律，主要体现在注意、记忆和行动上的选择性。",
+        "attemptCount": 0,
+        "errorCount": 0,
+        "inErrorBook": false,
+        "answer": "B"
+      },
+      {
+        "id": 40,
+        "type": "panduan",
+        "stem": "企业产品的口号定位可以为受众心智提供了一种简化的信息，利于受众的消费决策。",
+        "attemptCount": 0,
+        "errorCount": 0,
+        "inErrorBook": false,
+        "answer": "A"
+      }
+    ]
+  }
+}

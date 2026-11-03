@@ -12,7 +12,7 @@
     "imageResource": "tiku003.png",
     "title": "《习近平新时代中国特色社会主义思想概论》",
     "subject": "南京林业大学",
-    "description": "2025-2026-1",
+    "description": "2026-2027-2",
     "isSelected": false
   },
   {
@@ -20,7 +20,7 @@
     "imageResource": "tiku004.png",
     "title": "《毛泽东思想和中国特色社会主义概论》",
     "subject": "南京林业大学",
-    "description": "2025-2026-1",
+    "description": "2026-2027-2",
     "isSelected": false
   },
   {
@@ -85,6 +85,22 @@
     "title": "《财务管理》",
     "subject": "南京林业大学",
     "description": "2025-2026-1",
+    "isSelected": false
+  },
+  {
+      "id": "tk013",
+    "imageResource": "tiku012.png",
+    "title": "《广告学（判断题）》",
+    "subject": "南京林业大学",
+    "description": "2025-2026-1",
+    "isSelected": false
+  },
+  {
+      "id": "tk014",
+    "imageResource": "tiku014.png",
+    "title": "《国省考政治理论错题记忆版》",
+    "subject": "粉笔",
+    "description": "（个人向）",
     "isSelected": false
   }
   
