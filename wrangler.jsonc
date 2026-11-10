@@ -2,6 +2,11 @@
   "name": "tiku",
   "compatibility_date": "2026-11-10",
   "assets": {
-    "directory": "./"
+    "directory": "./",
+    "ignore": [
+      ".git",
+      ".git/*",
+      "README.md"
+    ]
   }
 }
