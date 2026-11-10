@@ -1,0 +1,12 @@
+# 忽略 Git 版本控制目录
+.git
+.git/*
+
+# 忽略 Cloudflare 本地临时目录
+.wrangler
+
+# 忽略 Wrangler 配置文件本身（可选，但推荐）
+wrangler.jsonc
+
+# 忽略不需要公开的说明文档
+README.md
